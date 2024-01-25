@@ -1377,7 +1377,8 @@ svg {
     width: 92px;
   }
   .header__nav-burger {
-    width: 100%;
+    width: 56%;
+    height: 31%;
   }
   .cta__content {
     width: 450px;
